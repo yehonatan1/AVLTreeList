@@ -1,8 +1,5 @@
-# username - yehonatanr
-# id1      - 328137385
-# name1    - Yehonatan Rokach
-# id2      - 209861806
-# name2    - Uri Ben Dor
+# names - Yehonatan Rokach & Uri Bendor
+
 
 
 """A class represnting a node in an AVL tree"""
